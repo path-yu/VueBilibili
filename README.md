@@ -24,7 +24,7 @@ yarn build
 
 项目预览地址
 
-http://47.94.159.197/
+http://ayun.cool/bilibili
 
 推荐使用移动端访问
 
